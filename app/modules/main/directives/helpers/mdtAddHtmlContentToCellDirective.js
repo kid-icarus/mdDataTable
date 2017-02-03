@@ -42,7 +42,7 @@
                         });
 
                     }else{
-                        element.append(val);
+                        element[0].append(val);
                     }
 
                 }, false);
